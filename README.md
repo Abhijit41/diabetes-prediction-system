@@ -105,8 +105,7 @@ Gradient Boosting     94.86%     0.94
 ## 🚀 How to Run
 
 ```bash
-# Clone the repository
-git clone https://github.com/rajeshkumarswain1976/diabetes_prediction_system.git
+#https://github.com/Abhijit41/diabetes-prediction-system.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -117,10 +116,12 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-**Rajesh Kumar Swain**
-B.Tech Computer Science and Engineering
-Biju Patnaik Institute of Technology, Rourkela, Odisha
+## 👤 Author
 
+**Abhi Jit**
+B.Tech Computer Science and Engineering
+ITER,SOA,Bhubaneshwar
+...
 ---
 
 ## 📄 License
